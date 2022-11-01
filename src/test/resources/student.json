@@ -1,0 +1,10 @@
+{
+  "name": "Alex",
+  "age": 25,
+  "isStudent": true,
+  "hobbies": ["music", "game"],
+  "passport": {
+    "number": 123456789,
+    "issueDate": "12.12.2022"
+  }
+}
